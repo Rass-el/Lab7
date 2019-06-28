@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8256e5dd-d4fe-468c-b63c-69426882ee31" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Lab6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/bin/lab/russel/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/bin/lab/russel/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/files/myCollection.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/files/tempCollection.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/run.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/src/lab/russel/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/src/lab/russel/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/.idea/libraries/com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/Lab5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/Server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/Rocket$Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/Rocket$Trinket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/SpaceSuit$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/csv/CSVReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/csv/CSVSyntaxException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/csv/CSVWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/Air.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/Being.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/Berry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/BerryType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/Bush.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/Danger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/Equipment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/EquipmentOff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/EquipmentOn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/Material.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/NatureThing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/Parachute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/PersonCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/PersonDeserializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/Rarity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/Rocket$Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/Rocket$Trinket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/Rocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/SpaceSuit$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/SpaceSuit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/Thing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/bin/server/russel/WrongOccupancyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/files/myCollection.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/files/tempCollection.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/META-INF/maven/com.google.code.gson/gson/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/META-INF/maven/com.google.code.gson/gson/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/DefaultDateTypeAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/ExclusionStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/FieldAttributes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/FieldNamingPolicy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/FieldNamingStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/Gson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/GsonBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/InstanceCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/JsonArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/JsonDeserializationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/JsonDeserializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/JsonElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/JsonIOException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/JsonNull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/JsonObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/JsonParseException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/JsonParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/JsonPrimitive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/JsonSerializationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/JsonSerializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/JsonStreamParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/JsonSyntaxException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/LongSerializationPolicy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/TypeAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/TypeAdapterFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/annotations/Expose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/annotations/JsonAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/annotations/SerializedName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/annotations/Since.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/annotations/Until.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/$Gson$Preconditions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/$Gson$Types.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/ConstructorConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/Excluder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/GsonBuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/JavaVersion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/JsonReaderInternalAccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/LazilyParsedNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/LinkedHashTreeMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/LinkedTreeMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/ObjectConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/PreJava9DateFormatProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/Primitives.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/Streams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/UnsafeAllocator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/bind/ArrayTypeAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/bind/CollectionTypeAdapterFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/bind/DateTypeAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/bind/JsonTreeReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/bind/JsonTreeWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/bind/MapTypeAdapterFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/bind/ObjectTypeAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/bind/SqlDateTypeAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/bind/TimeTypeAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/bind/TreeTypeAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/bind/TypeAdapterRuntimeTypeWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/bind/TypeAdapters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/bind/util/ISO8601Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/reflect/PreJava9ReflectionAccessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/reflect/ReflectionAccessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/internal/reflect/UnsafeReflectionAccessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/reflect/TypeToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/stream/JsonReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/stream/JsonScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/stream/JsonToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/stream/JsonWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/gson-2.8.5.jar/com/google/gson/stream/MalformedJsonException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/lib/gson-2.8.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/readme.1st" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/runServer.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/csv/CSVReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/csv/CSVSyntaxException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/csv/CSVWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/Air.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/Being.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/Berry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/BerryType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/Bush.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/Danger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/Equipment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/EquipmentOff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/EquipmentOn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/NatureThing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/Parachute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/PersonCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/PersonDeserializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/Rarity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/Rocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/SpaceSuit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/Thing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Server/src/server/russel/WrongOccupancyException.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="52185957">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="2" />
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="700" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="700" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lab/russel/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1380">
+              <caret line="92" column="30" lean-forward="true" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lab/russel/Client.java" />
+        <option value="$PROJECT_DIR$/files/myCollection.csv" />
+        <option value="$PROJECT_DIR$/files/tempCollection.csv" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="russel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560730311200" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8256e5dd-d4fe-468c-b63c-69426882ee31" name="Default Changelist" comment="" />
+      <created>1560730363879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560730363879</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/files/tempCollection.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/myCollection.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/russel/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="92" column="30" lean-forward="true" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

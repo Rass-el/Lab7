@@ -1,0 +1,8 @@
+To compile and run program, execute run.sh
+
+./run.sh
+
+This script execute program with input parameter - file input.txt, so, you needn't to care about anything.
+
+
+{"name": "Tranzora","age": 30,"equip": [{"isOpen": false,"rarity": "UNCOMMON","weight": 30,"name": "Parachute","danger": "SAFE","cost": 0,"age": 0,"isMaterial": true}],"danger": "SAFE"}
